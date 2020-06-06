@@ -1,6 +1,6 @@
 # The script to check the date of expiration of the certificate.
 # The script expects the domain name as an argument.
-# Example: SSL-Expiration-Date.py 
+# Example: SSL-Expiration-Date.py python.org
 # If the domain is not valid, the server name or inaccessibility will return "-100"
 
 import socket
